@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /*?
+Sitemap: http://wave-maxsite.github.io/sitemap.xml
